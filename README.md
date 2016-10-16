@@ -5,3 +5,5 @@
 (https://www.zybuluo.com/flyboy1995/note/505166)
 - [x] [Exercise_04:作业1.5]
 (https://www.zybuluo.com/flyboy1995/note/525667)
+- [x] [Exercise_05:作业2.6]
+(https://www.zybuluo.com/flyboy1995/note/534145)
