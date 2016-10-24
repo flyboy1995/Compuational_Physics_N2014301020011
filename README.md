@@ -7,3 +7,4 @@
 (https://www.zybuluo.com/flyboy1995/note/525667)
 - [x] [Exercise_05:作业2.6]
 (https://www.zybuluo.com/flyboy1995/note/534145)
+- [x] [Exercise_06:作业2.10题强化版（引入迎面风阻）]
