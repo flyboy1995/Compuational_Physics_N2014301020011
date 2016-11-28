@@ -15,3 +15,5 @@
 (https://www.zybuluo.com/flyboy1995/note/567379)
 - [x] [Exercise_09:作业3.30]
 (https://www.zybuluo.com/flyboy1995/note/574765)
+- [x] [Exercise_10:作业4.10]
+(http://www.jianshu.com/p/685548fa9de3)
