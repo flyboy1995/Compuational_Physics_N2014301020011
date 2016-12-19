@@ -21,3 +21,5 @@
 (http://www.jianshu.com/p/44edd1f56304)
 - [x] [Exercise_12:作业5.4&5.7]
 (http://www.jianshu.com/p/0e6277c7675c)
+- [x] [Exercise_12:作业6.12&6.13]
+(http://www.jianshu.com/p/7f9e0a8805c1)
